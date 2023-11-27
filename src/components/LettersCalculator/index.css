@@ -1,0 +1,38 @@
+.container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.text-container {
+  color: #fff;
+  font-family: 'roboto';
+}
+
+.typing {
+  background-color: transparent;
+  border: #e4e7eb 1px solid;
+  outline: none;
+}
+.button {
+  height: 60px;
+  width: 250px;
+  color: #219a6f;
+  background-color: #fff;
+  padding: 15px;
+  border: none;
+  font-size: 30px;
+  font-family: 'roboto';
+  font-weight: bold;
+  text-align: center;
+  border-radius: 15px;
+}
